@@ -1,6 +1,9 @@
 # Simple Commands by 88
 
-Simple commands for GTAC GTA IV server.
+![GTA Connected](https://img.shields.io/badge/GTA%20Connected-1.7.x-0066cc?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![GTA IV](https://img.shields.io/badge/GTA%20IV-000000?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=lua&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-333333?style=for-the-badge&logo=creativecommons&logoColor=white)
 
 ## 🎮 Commands
 
