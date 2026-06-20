@@ -1,0 +1,4 @@
+<meta>
+    <info title="ArmorCMD" author="88" version="1.0" description="Give Armor Command" />
+    <script src="client.lua" type="client" language="lua" />
+</meta>

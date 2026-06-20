@@ -1,0 +1,4 @@
+<meta>
+    <info title="KillCMD" author="88" version="1.0" description="Suicide Command" />
+    <script src="client.lua" type="client" language="lua" />
+</meta>
