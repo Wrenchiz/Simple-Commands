@@ -7,24 +7,20 @@
 
 ## 🎮 Commands
 
-### HealCMD
-- **Command:** `/heal`
-- **Description:** Restores health to 100
-
-### ArmorCMD
-- **Command:** `/armor`
-- **Description:** Restores armor to 100
-
-### KillCMD
-- **Command:** `/kill`
-- **Description:** Commits suicide
+| Command | Description | Resource |
+|:-------:|-------------|:--------:|
+| `/heal` | Restores health to 100 | HealCMD |
+| `/armor` | Restores armor to 100 | ArmorCMD |
+| `/kill` | Commits suicide | KillCMD |
 
 ## 🔧 Installation
+
 1. Place folders inside `resources/`
 2. Add `<resource src="FolderName" />` to `server.xml`
 3. Start server or type `start FolderName` in console
 
 ## 📌 Note
+
 - Made for GTA Connected 1.7.x GTA IV Server
 
 ---
