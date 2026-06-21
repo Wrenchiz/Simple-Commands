@@ -1,0 +1,4 @@
+<meta>
+    <info title="WantedCMD" author="88" version="1.0" description="Set Wanted Level" />
+    <script src="client.lua" type="client" language="lua" />
+</meta>
