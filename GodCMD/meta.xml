@@ -1,0 +1,4 @@
+<meta>
+    <info title="GodCMD" author="88" version="1.0" description="God Mode" />
+    <script src="client.lua" type="client" language="lua" />
+</meta>
