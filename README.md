@@ -12,6 +12,7 @@
 | `/heal` | Restores health to 100 | HealCMD |
 | `/armor` | Restores armor to 100 | ArmorCMD |
 | `/kill` | Commits suicide | KillCMD |
+| `/god on` / `/god off` | Toggles invincibility | GodCMD |
 
 ## 🔧 Installation
 
