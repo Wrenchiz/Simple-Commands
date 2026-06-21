@@ -13,6 +13,7 @@
 | `/armor` | Restores armor to 100 | ArmorCMD |
 | `/kill` | Commits suicide | KillCMD |
 | `/god on` / `/god off` | Toggles invincibility | GodCMD |
+| `/wanted 0-6` | Sets wanted level | WantedCMD |
 
 ## 🔧 Installation
 
