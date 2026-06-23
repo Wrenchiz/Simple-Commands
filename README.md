@@ -47,10 +47,6 @@ let shortcuts = [
 2. Add `<resource src="FolderName" />` to `server.xml`
 3. Start server or type `start FolderName` in console
 
-## 📌 Note
-
-- Made for GTA Connected 1.7.x GTA IV Server
-
 ---
 
 ## ⚖️ License
