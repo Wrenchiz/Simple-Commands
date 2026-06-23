@@ -21,7 +21,7 @@
 | Resource | Description | Key |
 |:--------:|-------------|:---:|
 | Speedometer | Shows vehicle speed with color indicator | Auto |
-| HelpMenu | Displays command list menu | F1 |
+| HelpMenu | Opens help menu with commands and shortcuts | F1 |
 | LockDoor | Locks/unlocks vehicle doors | L |
 
 ### HelpMenu Configuration
