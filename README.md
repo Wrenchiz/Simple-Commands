@@ -22,16 +22,22 @@
 |:--------:|-------------|:---:|
 | Speedometer | Shows vehicle speed with color indicator | Auto |
 | HelpMenu | Displays command list menu | F1 |
+| LockDoor | Locks/unlocks vehicle doors | L |
 
 ### HelpMenu Configuration
 1. Open `client.js`
-2. Find the `cmds` array
+2. Find the `cmds` array for commands and `shortcuts` array for keys
 3. Replace `TYPE_CMD_HERE` with your command and `TYPE_DESC_HERE` with description
-4. Example:
+4. Replace `TYPE_KEY_HERE` with your key and `TYPE_DESC_HERE` with description
+5. Example:
 ```javascript
 let cmds = [
     ["/heal", "Full health", "/armor", "Full armor", "/kill", "Suicide"],
     ["/god on/off", "God mode", "/wanted 0-6", "Wanted level", "/fix", "Fix vehicle"]
+];
+
+let shortcuts = [
+    ["F1", "Help menu", "TAB", "Player list", "L", "Door lock"]
 ];
 ```
 
