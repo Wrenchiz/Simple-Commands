@@ -1,0 +1,4 @@
+<meta>
+    <info title="FixCMD" author="88" version="1.0" description="Fix Car" />
+    <script src="client.js" type="client" language="javascript" />
+</meta>
