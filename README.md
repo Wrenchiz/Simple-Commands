@@ -14,6 +14,26 @@
 | `/kill` | Commits suicide | KillCMD |
 | `/god on` / `/god off` | Toggles invincibility | GodCMD |
 | `/wanted 0-6` | Sets wanted level | WantedCMD |
+| `/fix` | Repairs your vehicle | FixCMD |
+
+## ⭐ EXTRA
+
+| Resource | Description | Key |
+|:--------:|-------------|:---:|
+| Speedometer | Shows vehicle speed with color indicator | Auto |
+| HelpMenu | Displays command list menu | F1 |
+
+### HelpMenu Configuration
+1. Open `client.js`
+2. Find the `cmds` array
+3. Replace `TYPE_CMD_HERE` with your command and `TYPE_DESC_HERE` with description
+4. Example:
+```javascript
+let cmds = [
+    ["/heal", "Full health", "/armor", "Full armor", "/kill", "Suicide"],
+    ["/god on/off", "God mode", "/wanted 0-6", "Wanted level", "/fix", "Fix vehicle"]
+];
+```
 
 ## 🔧 Installation
 
