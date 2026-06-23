@@ -1,7 +1,8 @@
 # Simple Commands by 88
 
-![GTA Connected](https://img.shields.io/badge/GTA%20Connected-1.7.x-0066cc?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![GTA Connected](https://img.shields.io/badge/GTA%20Connected-1.7.x-0066cc?style=for-the-badge)
 ![GTA IV](https://img.shields.io/badge/GTA%20IV-000000?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-00007C?style=for-the-badge&logo=lua&logoColor=white)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-333333?style=for-the-badge&logo=creativecommons&logoColor=white)
 
